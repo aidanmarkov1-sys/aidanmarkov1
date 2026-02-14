@@ -1,0 +1,21 @@
+[
+  { "region": "Moscow, MS", "language": "RU" },
+  { "region": "Yekaterinburg, SV", "language": "RU" },
+  { "region": "Kazan, TT", "language": "RU" },
+  { "action": "big_cooldown", "duration": 10 },
+  { "region": "Kiev, KV", "language": "RU" },
+  { "region": "Almaty, AA", "language": "RU" },
+  { "region": "Novosibirsk, NS", "language": "RU" },
+  { "action": "big_cooldown", "duration": 10 },
+  { "region": "Nizhny Novgorod, NZ", "language": "RU" },
+  { "region": "Moscow, MS", "language": "RU" },
+  { "region": "St. Petersburg, SP", "language": "RU" },
+  { "action": "big_cooldown", "duration": 10 },
+  { "region": "Sevastapol, KR", "language": "RU" },
+  { "region": "Samara, SA", "language": "RU" },
+  { "region": "Penza, PZ", "language": "RU" },
+  { "action": "big_cooldown", "duration": 10 },
+  { "region": "Vladivostok, PR", "language": "RU" },
+  { "region": "St. Petersburg, SP", "language": "RU" },
+  { "region": "Minsk, MI", "language": "RU" }
+]

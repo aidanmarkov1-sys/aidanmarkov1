@@ -1,0 +1,16 @@
+[
+  { "region": "Berlin, BE", "language": "EN" },
+  { "region": "London, WE", "language": "EN" },
+  { "region": "Bucharest, BI", "language": "EN" },
+  { "action": "big_cooldown", "duration": 10 },
+  { "region": "Madrid, ESP", "language": "EN" },
+  { "region": "Warsaw, MZ", "language": "EN" },
+  { "region": "Istanbul, IB", "language": "EN" },
+  { "action": "big_cooldown", "duration": 10 },
+  { "region": "Stockholm, ST", "language": "EN" },
+  { "region": "Helsinki, FIN", "language": "EN" },
+  { "region": "Paris, FRA", "language": "EN" },
+  { "action": "big_cooldown", "duration": 10 },
+  { "region": "Sofia, SG", "language": "EN" },
+  { "region": "Madrid, ESP", "language": "EN" }
+]	

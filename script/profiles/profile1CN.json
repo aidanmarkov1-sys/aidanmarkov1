@@ -1,0 +1,16 @@
+[
+  { "region": "Beijing, BJ", "language": "EN" },
+  { "region": "Dubai, DU", "language": "EN" },
+  { "region": "Bangkok, BM", "language": "EN" },
+  { "action": "big_cooldown", "duration": 10 },
+  { "region": "Dhaka, DA", "language": "EN" },
+  { "region": "Ho Chi Minh City, VNM", "language": "EN" },
+  { "region": "Tehran, TH", "language": "EN" },
+  { "action": "big_cooldown", "duration": 10 },
+  { "region": "Jakarta, JK", "language": "EN" },
+  { "region": "Tokyo, TK", "language": "EN" },
+  { "region": "Beijing, BJ", "language": "EN" },
+  { "action": "big_cooldown", "duration": 10 },
+  { "region": "Ankara, AN", "language": "EN" },
+  { "region": "Hanoi, TY", "language": "EN" }
+]

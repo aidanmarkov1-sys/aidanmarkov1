@@ -1,0 +1,13 @@
+[
+  { "region": "Vinnytsya, VI", "language": "RU" },
+  { "region": "Kiev, KV", "language": "RU" },
+  { "region": "Odessa, MY", "language": "RU" },
+  { "action": "big_cooldown", "duration": 10 },
+  { "region": "Lvov, LV", "language": "RU" },
+  { "region": "Donetsk, DT", "language": "RU" },
+  { "region": "Kharkiv, KK", "language": "RU" },
+  { "action": "big_cooldown", "duration": 10 },
+  { "region": "Zaporizhzhya, ZP", "language": "RU" },
+  { "region": "Mariupol, DT", "language": "RU" },
+  { "region": "Luhansk, LH", "language": "RU" }
+]
