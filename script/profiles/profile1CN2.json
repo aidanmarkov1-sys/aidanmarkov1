@@ -1,0 +1,15 @@
+[
+  { "region": "北京市", "language": "EN" },
+  { "region": "上海市", "language": "EN" },
+  { "region": "重庆市", "language": "EN" },
+  { "action": "big_cooldown", "duration": 10 },
+  { "region": "成都市", "language": "EN" },
+  { "region": "广州市", "language": "EN" },
+  { "region": "深圳市", "language": "EN" },
+  { "action": "big_cooldown", "duration": 10 },
+  { "region": "武汉市", "language": "EN" },
+  { "region": "天津市", "language": "EN" },
+  { "action": "big_cooldown", "duration": 10 },
+  { "region": "西安市", "language": "EN" },
+  { "region": "杭州市", "language": "EN" }
+]
