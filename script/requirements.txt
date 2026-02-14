@@ -1,0 +1,17 @@
+pyautogui
+pynput
+pyperclip
+pydirectinput
+colorama
+pytesseract 
+Pillow
+keyboard
+opencv-python 
+numpy
+requests
+curl_cffi
+certifi
+openai 
+httpx
+httpx[socks]
+pandas

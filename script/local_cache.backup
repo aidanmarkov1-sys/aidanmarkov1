@@ -1,0 +1,3159 @@
+{
+  "file_status": {
+    "run_2026-02-12_17-29-08.log": "completed",
+    "run_2026-02-12_17-31-23.log": "completed",
+    "run_2026-02-12_18-18-36.log": "completed",
+    "run_2026-02-12_18-31-34.log": "completed",
+    "run_2026-02-12_22-00-08.log": "completed",
+    "run_2026-02-13_17-13-35.log": "completed",
+    "run_2026-02-13_17-16-53.log": "completed",
+    "run_2026-02-13_17-40-54.log": "completed",
+    "run_2026-02-13_19-28-36.log": "processing"
+  },
+  "entries": {
+    "1284945653": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 18:18:51",
+      "source_file": "run_2026-02-12_18-18-36.log"
+    },
+    "1084087445": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 17:29:21",
+      "source_file": "run_2026-02-12_17-29-08.log"
+    },
+    "1007916447": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 18:19:01",
+      "source_file": "run_2026-02-12_18-18-36.log"
+    },
+    "396880735": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 17:31:59",
+      "source_file": "run_2026-02-12_17-31-23.log"
+    },
+    "1102305921": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 17:32:00",
+      "source_file": "run_2026-02-12_17-31-23.log"
+    },
+    "1586794547": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 17:29:58",
+      "source_file": "run_2026-02-12_17-29-08.log"
+    },
+    "475141889": {
+      "price": 2,
+      "currency": "₽",
+      "date": "2026-02-12 17:30:04",
+      "source_file": "run_2026-02-12_17-29-08.log"
+    },
+    "199389374": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 17:30:09",
+      "source_file": "run_2026-02-12_17-29-08.log"
+    },
+    "426598299": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 17:30:18",
+      "source_file": "run_2026-02-12_17-29-08.log"
+    },
+    "894109151": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 17:30:22",
+      "source_file": "run_2026-02-12_17-29-08.log"
+    },
+    "108327771": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 17:30:27",
+      "source_file": "run_2026-02-12_17-29-08.log"
+    },
+    "860895824": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 17:30:36",
+      "source_file": "run_2026-02-12_17-29-08.log"
+    },
+    "xtrem": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 18:31:59",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "AyrtonZV": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 19:33:58",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "j0hn w1ck": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 19:29:55",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "yuxél": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 19:30:00",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "CRWDKiller5O": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 18:32:41",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "Chińczyk": {
+      "price": 2,
+      "currency": "₽",
+      "date": "2026-02-12 18:32:46",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "g я є у": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 18:32:51",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "CrookedRook12": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 18:33:01",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "Syn": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 18:33:05",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "epic_otter_78546": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 19:40:06",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "Mono": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 18:33:18",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "Shush": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 19:32:33",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "Zalo": {
+      "price": 55,
+      "currency": "₽",
+      "date": "2026-02-12 18:33:28",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "Reece": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 18:33:32",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "itzzzABSURD": {
+      "price": 1,
+      "currency": "₽",
+      "date": "2026-02-12 18:33:43",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "Magi": {
+      "price": 25,
+      "currency": "₽",
+      "date": "2026-02-12 18:33:43",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "Swegg": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 18:34:25",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "Xeno Crab": {
+      "price": 1,
+      "currency": "₽",
+      "date": "2026-02-12 18:34:30",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "elijahn348": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 18:34:35",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "SoulCaster": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 18:34:45",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "OCCISION | ESP": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 18:35:12",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "Kermi": {
+      "price": 1,
+      "currency": "₽",
+      "date": "2026-02-12 18:35:19",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "Kermski": {
+      "price": 1,
+      "currency": "₽",
+      "date": "2026-02-12 18:35:24",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "WhiteOri": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 18:35:27",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "Laminate1942": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 18:35:27",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "Funk_Buddha": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 18:35:37",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "Chiasse de moule au basilic": {
+      "price": 8,
+      "currency": "₽",
+      "date": "2026-02-13 19:36:55",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "Audubon": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 18:35:46",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "umaumatarou": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 19:29:46",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "alaska": {
+      "price": 6,
+      "currency": "₽",
+      "date": "2026-02-12 18:35:57",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "alaskaXse": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 18:36:00",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "-Green Grangde-": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 18:36:19",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "Lukinhas": {
+      "price": 20,
+      "currency": "₽",
+      "date": "2026-02-12 18:36:28",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "Vinicius_Trentim": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 18:36:30",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "spyyanuz": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 18:36:38",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "TheRealNick": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 18:36:39",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "AkatsukiVT": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 20:04:49",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "OneSharpEdge": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 18:37:10",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "Roustafouine": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 18:37:30",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "ReckerPll": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 18:37:41",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "Pookie Bear": {
+      "price": 2381,
+      "currency": "₽",
+      "date": "2026-02-12 18:37:49",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "LALA LAND": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 18:37:49",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "Keagan": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 18:37:59",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "Cibryon": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 18:38:03",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "express.mohannad": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 18:38:08",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "Gion": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 18:38:12",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "josemi12": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 18:38:21",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 19:55:23",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "Radukinbny": {
+      "price": 3,
+      "currency": "₽",
+      "date": "2026-02-12 18:38:45",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "Cliffy": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 20:01:52",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "Hanka": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 20:01:33",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "My lovely '19 Vauxhall Viva": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 19:52:44",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "Namenos": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 18:39:15",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "Destiny": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 18:39:18",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "volgende": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 19:31:07",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "n0cturnal": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 18:39:29",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "Katamaran": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 18:39:33",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "koma": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 19:37:33",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "Cliff": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 18:39:47",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "Basti40": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 18:40:01",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "arazboy3": {
+      "price": 13,
+      "currency": "₽",
+      "date": "2026-02-12 18:40:07",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "The Midnight Milker": {
+      "price": 2,
+      "currency": "₽",
+      "date": "2026-02-12 18:40:15",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "Tony Kelly": {
+      "price": 39,
+      "currency": "₽",
+      "date": "2026-02-12 18:40:15",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "Firefly": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 18:40:25",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "immortalized.": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 19:30:20",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "HooliGan": {
+      "price": 8,
+      "currency": "₽",
+      "date": "2026-02-12 18:40:40",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "Fedrix1409": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 18:40:48",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "TaskForceDoomer97": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 19:59:44",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "Lonelycanine": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 19:52:52",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "AMOGUS": {
+      "price": 226,
+      "currency": "₽",
+      "date": "2026-02-12 18:41:03",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "gemp": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 19:53:06",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "gempfn": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 19:53:08",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "JamalTwigglison": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 19:48:48",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "ROKA_Wolf": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 18:41:26",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "DIAMONDDOG": {
+      "price": 19,
+      "currency": "₽",
+      "date": "2026-02-13 19:45:33",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "GDongdong": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 19:45:38",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "Garfield": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 19:44:03",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "What the Duck": {
+      "price": 5,
+      "currency": "₽",
+      "date": "2026-02-13 20:01:20",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "-Kenade-": {
+      "price": 1,
+      "currency": "₽",
+      "date": "2026-02-12 18:42:00",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "SrWazalsky": {
+      "price": 15,
+      "currency": "₽",
+      "date": "2026-02-12 18:42:04",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "648131013": {
+      "price": 1,
+      "currency": "₽",
+      "date": "2026-02-13 19:36:32",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "Skibidi NightSide.pl": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 18:42:19",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "PSYKOH": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 18:42:34",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "Cyphrex": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 18:42:47",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "cheeki breeki": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 18:42:51",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "Lazy-J": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 18:42:53",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "brah.sensation": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 18:42:57",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "Sednno": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 19:43:20",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "zaytoven:)": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 19:49:37",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "Dyslexic F-15": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 18:43:20",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "rob": {
+      "price": 3,
+      "currency": "₽",
+      "date": "2026-02-13 19:56:00",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "TheManWhoSoldTheWorld": {
+      "price": 3,
+      "currency": "₽",
+      "date": "2026-02-12 18:43:35",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "cambf08": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 18:43:39",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "Sierra": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 18:43:50",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "Charlie Kirk": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 18:43:50",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "Glitched_Killer": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 18:43:58",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "Dank Whips": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 18:44:03",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "Carpy": {
+      "price": 555,
+      "currency": "₽",
+      "date": "2026-02-12 18:44:17",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "Kyle": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 18:44:18",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "fullymagic": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 19:57:49",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "CR7": {
+      "price": 1831,
+      "currency": "₽",
+      "date": "2026-02-12 18:44:37",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "Nfinite": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 18:44:47",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "Nfinite Ego": {
+      "price": 93,
+      "currency": "₽",
+      "date": "2026-02-12 18:44:55",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "Aria": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 18:44:56",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "kk": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 18:45:06",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "Xielent": {
+      "price": 586,
+      "currency": "₽",
+      "date": "2026-02-12 18:45:07",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "nat": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 18:45:10",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "jacob": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 19:42:19",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "Ctrl+Z": {
+      "price": 27,
+      "currency": "₽",
+      "date": "2026-02-12 18:45:28",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "d30307847572022": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 18:45:33",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "Monarch_SW108": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 19:32:47",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "Lebr0n James": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 18:45:43",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "LilBaget": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 18:45:56",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "D Esquire": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 19:36:03",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "Li0nworthy": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 19:36:07",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "pixelandadam": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 19:36:14",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "Ly": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 19:36:17",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "SomaliYachtCo.": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 19:36:22",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "Derapage": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 18:46:35",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "hasegawa78": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 19:33:34",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "csöv3sBende": {
+      "price": 4,
+      "currency": "₽",
+      "date": "2026-02-12 18:46:49",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "bende99": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 18:46:56",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "Clementine Marsh": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 18:47:14",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "老秃": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 18:47:23",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "NewbieSoldier": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 18:47:24",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "275526421": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 18:47:32",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "Shoes": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 18:47:33",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "Kunai": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 18:47:42",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "ColdMartini": {
+      "price": 9,
+      "currency": "₽",
+      "date": "2026-02-12 18:47:48",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "月之森精神病人": {
+      "price": 69,
+      "currency": "₽",
+      "date": "2026-02-12 18:47:52",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "咖啡厅吉他手仮屋和奏": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 18:48:01",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "zhenheikediguo": {
+      "price": 221,
+      "currency": "₽",
+      "date": "2026-02-12 18:48:01",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "Willowww": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 18:48:29",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "progun37": {
+      "price": 19,
+      "currency": "₽",
+      "date": "2026-02-13 19:39:42",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "TJ_": {
+      "price": 5,
+      "currency": "₽",
+      "date": "2026-02-12 18:48:40",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "alj96": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 18:48:44",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "Xiaomi Redmi Note 12 Pro": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 19:51:03",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "VQUV": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 18:48:59",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "Jonnconner": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 18:49:10",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "TaterFaceYellerYonder": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 19:32:56",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "UnnoN": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 18:49:28",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "weo_weo_weo": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 19:48:24",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "GriZ": {
+      "price": 512,
+      "currency": "₽",
+      "date": "2026-02-12 18:49:43",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "OneCyborg": {
+      "price": 8,
+      "currency": "₽",
+      "date": "2026-02-13 19:29:12",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "Turuville": {
+      "price": 5,
+      "currency": "₽",
+      "date": "2026-02-12 18:49:53",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "Urne Urnsen": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 19:59:21",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "Générateur2Douah": {
+      "price": 69,
+      "currency": "₽",
+      "date": "2026-02-12 18:50:01",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "Gabe Newell my goat": {
+      "price": 48,
+      "currency": "₽",
+      "date": "2026-02-12 18:50:06",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "Tähti": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 18:50:15",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "Cupcake Commander": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 18:50:19",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "Langley": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 18:50:24",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "자칭 SCP 격리 전문가": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 19:52:24",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "Niko": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 18:50:53",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "nimbut": {
+      "price": 64,
+      "currency": "₽",
+      "date": "2026-02-12 18:51:04",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "bastiber": {
+      "price": 120,
+      "currency": "₽",
+      "date": "2026-02-12 18:51:08",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "woof_29": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 18:51:16",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "ShadowError": {
+      "price": 6,
+      "currency": "₽",
+      "date": "2026-02-13 19:34:08",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "FLUHKUNXHOS": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 19:32:14",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "Blahaiőslakos": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 18:51:35",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "Marvik": {
+      "price": 8,
+      "currency": "₽",
+      "date": "2026-02-12 18:51:45",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "juansitopro2010": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 18:51:54",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "YoerkSun": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 18:52:15",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "Combo": {
+      "price": 1,
+      "currency": "₽",
+      "date": "2026-02-13 19:38:30",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "Silver": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 18:52:28",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "Alex": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 18:52:46",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "Gramidou": {
+      "price": 5,
+      "currency": "₽",
+      "date": "2026-02-12 18:53:01",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "Logze": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 19:43:59",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "西行幽茶 ~THE DREAM OF ALIVE": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 19:30:10",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "Christopher666": {
+      "price": 80,
+      "currency": "₽",
+      "date": "2026-02-13 19:49:08",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "Bubble Tea Dark Cat": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 18:53:40",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "PapaJohns47": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 18:53:49",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "bostaalikidaa12": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 18:53:54",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "renk__": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 18:54:08",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "Andes": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 18:54:13",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "Atlas": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 18:54:23",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "pashaBisex": {
+      "price": 72,
+      "currency": "₽",
+      "date": "2026-02-12 18:54:23",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "NJLV": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 18:54:32",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "Hawk Tuah": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 18:54:32",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "Jmv.": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 18:55:04",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "Cecyl_luna": {
+      "price": 4,
+      "currency": "₽",
+      "date": "2026-02-12 18:55:19",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "Mattavia": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 19:31:44",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "德皇1f": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 18:55:47",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "jackienechan": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 18:55:51",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "syntysadd": {
+      "price": 29,
+      "currency": "₽",
+      "date": "2026-02-12 18:56:07",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "Your Mom": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 18:56:25",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "Warren": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 18:56:31",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "Rex_006": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 18:56:40",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "nexus018": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 19:31:31",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "atwnkk": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 18:57:22",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "Kristian.N": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 22:37:52",
+      "source_file": "run_2026-02-12_22-00-08.log"
+    },
+    "Fascist Spy": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 18:57:34",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "Skymity": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 18:57:37",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "Civilian": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 18:57:43",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "Tango": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 18:57:52",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "Emyra": {
+      "price": 1,
+      "currency": "₽",
+      "date": "2026-02-12 18:58:01",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "POOPinMYthroat": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 18:58:20",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "TheE Jack.": {
+      "price": 18,
+      "currency": "₽",
+      "date": "2026-02-12 18:58:22",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "todd": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 18:58:30",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "Gaabel": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 18:58:36",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "Kalan": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 18:58:39",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "Gyan": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 19:30:53",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "梵蒂冈教皇": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 19:30:52",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "LemonBody": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 18:58:58",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "Toni": {
+      "price": 30,
+      "currency": "₽",
+      "date": "2026-02-12 18:59:04",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "Saddam Hussein": {
+      "price": 9,
+      "currency": "₽",
+      "date": "2026-02-12 18:59:08",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "Luka": {
+      "price": 3,
+      "currency": "₽",
+      "date": "2026-02-13 19:39:47",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "Homeless Shark": {
+      "price": 7,
+      "currency": "₽",
+      "date": "2026-02-13 19:59:36",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "Nyo271635": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 19:54:36",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "JahWick": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 18:59:45",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "BillyTheKid": {
+      "price": 20,
+      "currency": "₽",
+      "date": "2026-02-13 20:03:23",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "Mach Nametags aus": {
+      "price": 1,
+      "currency": "₽",
+      "date": "2026-02-12 18:59:59",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "ghostphantoms141": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 19:39:13",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "FBIAgentFaison": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 19:00:05",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "Ember 0-1": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 19:50:06",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "cs-gas silliarde": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 19:00:20",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "teigeki": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 19:00:30",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "Pifxx": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 19:00:33",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "pifxx": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 19:00:39",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "The Prickly Prince": {
+      "price": 22,
+      "currency": "₽",
+      "date": "2026-02-12 19:00:47",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "Hori-Acio": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 19:00:47",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "Targeted": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 19:40:07",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "STEW25K": {
+      "price": 6,
+      "currency": "₽",
+      "date": "2026-02-12 19:01:02",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "MM": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 19:01:06",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "silverdoge567": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 19:01:16",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "legna227": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 19:31:54",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "Gutbürger.er": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 19:45:15",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "T3NACI0S": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 19:49:23",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "Sly": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 19:01:53",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "jaimelespatescru": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 19:02:03",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "xX_AngYanXu_Xx": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 19:02:21",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "cloudy": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 19:02:27",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    ":3": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 19:02:36",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "sawyersterling183": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 19:02:45",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "Navy Seal": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 22:19:46",
+      "source_file": "run_2026-02-12_22-00-08.log"
+    },
+    "48": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 19:03:01",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "Martidare": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 19:03:11",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "speed409": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 19:03:15",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "ArI3itR": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 19:03:34",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "Vinicius Bruni": {
+      "price": 1,
+      "currency": "₽",
+      "date": "2026-02-12 19:03:43",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "spiderman_2992": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 19:03:49",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "immanuelmaringka": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 19:37:04",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "雞翅膀": {
+      "price": 13,
+      "currency": "₽",
+      "date": "2026-02-13 19:44:46",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "Cypher": {
+      "price": 46,
+      "currency": "₽",
+      "date": "2026-02-13 19:49:57",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "MrBriefly": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 19:04:08",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "Raizen": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 19:04:11",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "Denop": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 19:04:25",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "‡₪TBC₪‡Grl.Lts.I.": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 19:04:36",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "жовти": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 19:04:40",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "Lilia": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 22:09:43",
+      "source_file": "run_2026-02-12_22-00-08.log"
+    },
+    "• Syca named Folly": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 19:04:55",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "datoneslav": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 19:04:59",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "长梦不醒": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 19:05:13",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "Frosty Peeps": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 19:05:29",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "Gamorra": {
+      "price": 19,
+      "currency": "₽",
+      "date": "2026-02-12 19:05:30",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "vinnroc": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 19:05:44",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "VAR101【中】": {
+      "price": 9,
+      "currency": "₽",
+      "date": "2026-02-12 19:05:44",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "pAN rAFAL 2009": {
+      "price": 3,
+      "currency": "₽",
+      "date": "2026-02-13 19:34:07",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "Cabide": {
+      "price": 184,
+      "currency": "₽",
+      "date": "2026-02-13 19:37:13",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "molodoy": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 19:37:14",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "[ 1° Sd. ] cold": {
+      "price": 6,
+      "currency": "₽",
+      "date": "2026-02-13 19:37:05",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "lucien": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 19:30:57",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "Schwifty": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 19:06:26",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "Braddds": {
+      "price": 21,
+      "currency": "₽",
+      "date": "2026-02-13 19:49:37",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "Drew Brown": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 19:06:36",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "Biddle": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 19:06:41",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "WilliamB": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 19:06:45",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "Aslan Shaw": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 19:06:56",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "suicidalgerm": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 19:07:00",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "july": {
+      "price": 15,
+      "currency": "₽",
+      "date": "2026-02-12 19:07:05",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "Youko": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 19:07:11",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "woa___": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 19:59:57",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "gurt": {
+      "price": 4,
+      "currency": "₽",
+      "date": "2026-02-13 19:55:46",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "Sigma Rajav": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 19:55:52",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "ZA": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 19:55:56",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "Pakouv": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 19:08:02",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "Glizzalovic": {
+      "price": 5,
+      "currency": "₽",
+      "date": "2026-02-13 19:55:37",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "Bild_Schirm": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 19:08:07",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "公鸡.Bild_Schirm": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 19:08:15",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "foreign": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 19:08:17",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "me.krisztian8": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 19:08:21",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "szerencsisandri": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 19:08:26",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "Greatmann": {
+      "price": 6,
+      "currency": "₽",
+      "date": "2026-02-12 19:08:31",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "OrzE": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 19:08:36",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "Chester": {
+      "price": 7,
+      "currency": "₽",
+      "date": "2026-02-12 19:09:04",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "Hue G. Rection": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 19:09:10",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "Typhoon King": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 19:33:44",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "fecal master": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 19:09:28",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "Nils_ZB": {
+      "price": 6,
+      "currency": "₽",
+      "date": "2026-02-12 19:09:46",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "SoulHunt3r": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 19:09:47",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "HAU": {
+      "price": 4,
+      "currency": "₽",
+      "date": "2026-02-12 19:09:57",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "meczett-": {
+      "price": 85,
+      "currency": "₽",
+      "date": "2026-02-12 19:10:00",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "theboys": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 19:10:05",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "FAL": {
+      "price": 7,
+      "currency": "₽",
+      "date": "2026-02-12 19:10:33",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "Kieta": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 19:33:58",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "76561198784817828": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 19:10:49",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "noa.bklf1": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 19:10:52",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "betateg": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 19:11:07",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "Scope": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 19:48:53",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "Pure_Evil_Fin": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 19:11:35",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "doge": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 19:11:41",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "grahhh": {
+      "price": 28,
+      "currency": "₽",
+      "date": "2026-02-12 19:11:51",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "Dynsai": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 19:11:54",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "Tompson": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 19:11:59",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "Sotoshi": {
+      "price": 51,
+      "currency": "₽",
+      "date": "2026-02-12 19:12:13",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "Axle": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 19:12:31",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "GeekN_DeacoN": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 19:12:46",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "Fuscas": {
+      "price": 13,
+      "currency": "₽",
+      "date": "2026-02-12 19:13:09",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "brocksmk88": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 19:13:14",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "Tak": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 19:13:15",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "RedKing": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 19:47:23",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "ranjidhelps": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 19:47:32",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "Neko Hans": {
+      "price": 7,
+      "currency": "₽",
+      "date": "2026-02-13 19:47:39",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "LOEOS": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 22:24:14",
+      "source_file": "run_2026-02-12_22-00-08.log"
+    },
+    "ROBOBOSS #FreeFenasi": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 19:13:48",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "FENİXOYUN-UNCHARTED": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 19:13:53",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "ThePoisonist": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 19:32:51",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "Squidy": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 19:14:06",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "dvibrc": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 19:14:06",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "RAMIIII": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 19:14:17",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "RED-OTLW": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 19:14:21",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "Jok3r909": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 19:14:35",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "Vin": {
+      "price": 42,
+      "currency": "₽",
+      "date": "2026-02-12 19:14:40",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "zahalowdupewalo": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 19:14:49",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "Saints𓂀": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 19:35:54",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "ReapingHavik": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 19:14:59",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "turt": {
+      "price": 868,
+      "currency": "₽",
+      "date": "2026-02-12 19:15:12",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "Zero Volnutt": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 19:15:13",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "Mdphoto": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 19:41:51",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "ikull": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 19:15:27",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "Tom": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 19:15:42",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "郡": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 19:15:51",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "Athetos": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 19:15:57",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "armpit juices": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 19:16:01",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "TheYiğit": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 19:16:15",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "Professor Fuzzy": {
+      "price": 3,
+      "currency": "₽",
+      "date": "2026-02-13 19:37:28",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "Qdog": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 19:16:38",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "Serancja": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 19:59:13",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "Recruit": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 19:16:53",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "HEX: I LOOPED YOU": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 19:16:57",
+      "source_file": "run_2026-02-12_18-31-34.log"
+    },
+    "pen": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 19:28:50",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "manofstee": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 19:28:59",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "Daughter Dater": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 19:29:05",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "Jxstin.Fxk": {
+      "price": 34,
+      "currency": "₽",
+      "date": "2026-02-13 19:29:21",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "BallisticBlunder": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 19:29:32",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "senukscp1": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 19:29:41",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "AIRxROB": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 19:29:41",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "word.exe": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 19:30:34",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "fugslayer69": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 19:30:34",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "DOEN NHUS": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 19:31:54",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "lilmac.": {
+      "price": 23,
+      "currency": "₽",
+      "date": "2026-02-13 19:31:49",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "Jeffrey Epstein": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 19:32:04",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "一营营长张大喵": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 19:32:09",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "✪Fernando /": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 19:32:28",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "tymoslaw": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 19:32:52",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "hook37": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 19:33:11",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "NO DYING ALLOWED": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 19:33:20",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "我能爹": {
+      "price": 11,
+      "currency": "₽",
+      "date": "2026-02-13 19:34:22",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "Linguiça": {
+      "price": 5,
+      "currency": "₽",
+      "date": "2026-02-13 19:34:45",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "kimjaemin": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 19:34:55",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "Deacon": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 19:35:44",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "エモい旅にしよっか": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 19:35:49",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "seo": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 19:36:02",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "2GB RAM DDR2": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 19:36:41",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "mrow": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 19:36:55",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "LittleIntellect": {
+      "price": 1,
+      "currency": "₽",
+      "date": "2026-02-13 19:37:24",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "arturoroman": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 19:37:38",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "irish08slasher": {
+      "price": 69,
+      "currency": "₽",
+      "date": "2026-02-13 19:37:49",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "Aeronwayne": {
+      "price": 26,
+      "currency": "₽",
+      "date": "2026-02-13 19:37:52",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "CANCNML": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 19:38:10",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "안아줘요": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 19:38:16",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "Rumcyk27": {
+      "price": 24,
+      "currency": "₽",
+      "date": "2026-02-13 19:38:24",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "Andrew Graves": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 19:38:54",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "Krypton": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 19:39:03",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "I'm a real person (trust) [Bot]": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 19:39:08",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "lqh2038649963": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 19:39:17",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "DC凉": {
+      "price": 1,
+      "currency": "₽",
+      "date": "2026-02-13 19:39:26",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "huntersgaminggrounds": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 19:39:56",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "ZED": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 19:40:12",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "Eli": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 19:40:50",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "nagatomo0003": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 19:40:59",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "narjaXX": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 19:41:07",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "☣℣︎⊘︎я♰︎ε✘☣": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 19:41:12",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "alexvinuesa92": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 22:12:53",
+      "source_file": "run_2026-02-12_22-00-08.log"
+    },
+    "woodee2": {
+      "price": 18,
+      "currency": "₽",
+      "date": "2026-02-13 19:41:27",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "SioRioko": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 19:42:19",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "WhoTfIsAri?": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 19:42:32",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "Chris": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 19:42:38",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "Dylooxine": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 19:43:12",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "Frodo": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 19:43:36",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "Nomad": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 19:43:54",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "雾鬼233": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 19:44:17",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "Hanhan": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 19:44:17",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "Kirito.": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 19:44:23",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "zhlzhxy": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 19:44:27",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "LzzJia": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 19:44:35",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "BienSolito": {
+      "price": 2,
+      "currency": "₽",
+      "date": "2026-02-13 19:44:36",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "kensy9": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 19:45:00",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "Noveeske诺维斯基": {
+      "price": 46,
+      "currency": "₽",
+      "date": "2026-02-13 19:45:24",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "Fansy": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 19:45:24",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "⛧ SynHDz ⸸": {
+      "price": 1,
+      "currency": "₽",
+      "date": "2026-02-13 19:45:43",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "Salty, the Salt Shaker": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 19:45:48",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "Femboy69": {
+      "price": 10,
+      "currency": "₽",
+      "date": "2026-02-13 19:45:53",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "BOT ShzlL": {
+      "price": 6,
+      "currency": "₽",
+      "date": "2026-02-13 19:46:03",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "tyler9zz": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 19:46:07",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "BadKeem": {
+      "price": 4,
+      "currency": "₽",
+      "date": "2026-02-13 19:46:12",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "bukszpan": {
+      "price": 8,
+      "currency": "₽",
+      "date": "2026-02-13 19:46:16",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "𝔾𝕙𝕠𝕤𝕥": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 19:46:30",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "KILLER": {
+      "price": 21,
+      "currency": "₽",
+      "date": "2026-02-13 19:46:31",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "benttovbohrer": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 19:46:36",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "OrangeTechMechanic": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 19:46:40",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "TASOBABA": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 19:46:55",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "Moist": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 19:47:00",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "Brava": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 19:47:13",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "Ace": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 19:47:37",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "Grayline": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 19:47:47",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "bandzzz": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 19:48:01",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "yaomickey": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 19:48:20",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "DNBANB": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 19:48:30",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "bahio": {
+      "price": 1,
+      "currency": "₽",
+      "date": "2026-02-13 19:48:40",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "Shōn": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 19:48:58",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "Liber-Teabag": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 19:49:13",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "ionutmov": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 19:49:18",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "R1ckasaurusRex": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 22:21:11",
+      "source_file": "run_2026-02-12_22-00-08.log"
+    },
+    "Van_Zakkart": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 19:49:42",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "Praise Hades GAIN.GG": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 19:49:55",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "Clood": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 19:49:47",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "Captain Nork": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 19:50:10",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "RiceOfDunwall": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 19:50:15",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "pathogenesis_infest_phlegmsepia": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 19:50:25",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "Lapua": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 19:50:35",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "faltank15": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 19:50:39",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "Dramatik Poni": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 19:50:48",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "xHyperNova7x": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 19:51:12",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "TheSupremeGamer01": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 19:51:26",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "Bungulator": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 19:51:32",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "Rebuild_world": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 19:51:36",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "Pigeon": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 19:51:42",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "buh": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 22:23:32",
+      "source_file": "run_2026-02-12_22-00-08.log"
+    },
+    "ShadowOsmium": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 19:51:54",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "MaybeBaby": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 19:52:01",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "Justij2010": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 22:23:50",
+      "source_file": "run_2026-02-12_22-00-08.log"
+    },
+    "ryisgood1": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 19:53:02",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "𝐕𝐚𝐥𝐨𝐫": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 19:53:16",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "Kadmium": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 22:25:10",
+      "source_file": "run_2026-02-12_22-00-08.log"
+    },
+    "Benj4x9": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 19:53:58",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "Stripes": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 19:54:03",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "John Smith": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 19:54:12",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "Joao_Pauludo": {
+      "price": 15,
+      "currency": "₽",
+      "date": "2026-02-13 19:54:16",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "pekospaulkele": {
+      "price": 8,
+      "currency": "₽",
+      "date": "2026-02-13 19:54:25",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "ROUFAA": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 19:54:46",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "Lepas": {
+      "price": 252,
+      "currency": "₽",
+      "date": "2026-02-13 19:55:00",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "Jazzhands": {
+      "price": 11,
+      "currency": "₽",
+      "date": "2026-02-13 19:55:05",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "W0lfSiX": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 19:55:13",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "RedPandaDemon": {
+      "price": 15,
+      "currency": "₽",
+      "date": "2026-02-13 19:55:18",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "Jankster": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 19:55:29",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "Vectuś": {
+      "price": 22,
+      "currency": "₽",
+      "date": "2026-02-13 19:56:14",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "亨利play": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 19:56:34",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "Karl-GurkA": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 19:56:44",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "stocksyns": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 19:56:58",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "Casablanca13": {
+      "price": 150,
+      "currency": "₽",
+      "date": "2026-02-13 19:57:17",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "GreenReaper": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 19:57:27",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "Kawsar": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 19:57:51",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "John dungeon": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 19:57:59",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "spiderman2axolt2": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 19:58:14",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "lostjudgmentaxolt": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 19:58:10",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "LXJ SM 1": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 19:58:23",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "yeitzug": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 19:58:33",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "Tactical?": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 19:58:54",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "Boris": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 19:58:57",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "Sgt Speedy": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 19:59:07",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "Cloecrack": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 19:59:26",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "MintChocIceCream": {
+      "price": 35,
+      "currency": "₽",
+      "date": "2026-02-13 19:59:35",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "Owen Machine Carbine": {
+      "price": 140,
+      "currency": "₽",
+      "date": "2026-02-13 19:59:53",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "louiscasey501": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 19:59:44",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "Petras Gražulis": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 20:00:12",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "kebab": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 20:00:17",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "Gabatooo": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 20:00:35",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "m3g4z0mb13": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 20:00:35",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "david beckham": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 20:00:54",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "VINY": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 20:00:59",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "Reco!l": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 22:32:56",
+      "source_file": "run_2026-02-12_22-00-08.log"
+    },
+    "Fauzt": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 20:01:18",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "BriskaCopper": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 20:01:28",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "grindfist": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 20:01:47",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "Sablin": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 20:01:57",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "DerPsychonaut": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-12 22:33:44",
+      "source_file": "run_2026-02-12_22-00-08.log"
+    },
+    "The All Seeing Eye": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 20:02:11",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "pna4579": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 20:02:10",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "The Lawful Gamer": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 20:02:25",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "Folagor": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 20:02:44",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "Amnessar": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 20:02:54",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "Amnessar2": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 20:02:57",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "Dante": {
+      "price": 1,
+      "currency": "₽",
+      "date": "2026-02-13 20:02:59",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "VensteFR": {
+      "price": 48,
+      "currency": "₽",
+      "date": "2026-02-13 20:03:31",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "hamish0808": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 20:03:38",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "funzi": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 20:04:05",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "Ghost-642": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 20:04:15",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "John Blaze": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 20:04:24",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "Ram Bo": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 20:04:29",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "Ravenn": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 20:04:34",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "kawinraj2012": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 20:04:42",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "Duck": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 20:05:17",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "Death Diamond": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 20:05:47",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "Jessica From H.R": {
+      "price": 585,
+      "currency": "₽",
+      "date": "2026-02-13 20:05:52",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "FRISE": {
+      "price": 8,
+      "currency": "₽",
+      "date": "2026-02-13 20:06:01",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "John Wilkes \"II\"": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 20:06:06",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "leonkk221": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 19:42:05",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "CallmeStalls": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 19:43:30",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "godzillaliam1": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 19:43:40",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "TraumaShearz": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 19:51:09",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "kixx": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 19:58:28",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    },
+    "BussyRimmer6000": {
+      "price": 0,
+      "currency": "₽",
+      "date": "2026-02-13 20:04:53",
+      "source_file": "run_2026-02-13_19-28-36.log"
+    }
+  }
+}

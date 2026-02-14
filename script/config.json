@@ -1,0 +1,212 @@
+{
+  "proxies": [
+    "socks5h://reg0j3TA:yFvAHDhu6n@91.147.126.149:50101",
+    "socks5h://hhhddukf:apN9vgBwsB@14.102.232.151:51524",
+    "socks5h://emranhuk2016:x2ds23Uz2H@185.13.225.107:59101",
+    "socks5h://cVMrXk:A4og0z@212.102.152.237:8000",
+    "socks5h://xxjDFL:njVfnx@72.56.142.234:8000",
+    "socks5h://CZurwm:ctx0PQ@181.177.126.221:8000",
+    "socks5h://CZurwm:ctx0PQ@181.177.107.234:8000",
+    "socks5h://2GEN82:sRRc7Q@138.122.192.151:8000",
+    "socks5h://2GEN82:sRRc7Q@45.154.231.213:8000"
+  ],
+  "coordinates": {
+    "chat_pos": [
+      950,
+      1033
+    ],
+    "channel_leave_pos": [
+      1215,
+      1010
+    ],
+    "channel_join_pos": [
+      1190,
+      755
+    ],
+    "channel_region_pos": [
+      635,
+      225
+    ],
+    "channel_find_pos": [
+      950,
+      335
+    ],
+    "channel_accept_pos": [
+      850,
+      740
+    ],
+    "channel_normal_pos": [
+      800,
+      225
+    ],
+    "channel_filter_pos": [
+      1125,
+      370
+    ],
+    "channel_list_hover_pos": [
+      930,
+      500
+    ],
+    "channel_window_close_pos": [
+      1090,
+      740
+    ],
+    "scan_steam32_id": [
+      500,
+      180,
+      1100,
+      210
+    ]
+  },
+  "timing": {
+    "pause_between_cycles": 0,
+    "mouse_move_duration": 0.25,
+    "main_cooldown": 30.0,
+    "mixed_mode_cooldown": 15.0,
+    "spam_message_delay": 0.05,
+    "action_delay": 0.05,
+    "restart_hold_duration": 0.3,
+    "pause_after_join": 1,
+    "pause_before_send": 0.05,
+    "chat_unfold_delay": 0.15
+  },
+  "web_worker_timing": {
+    "max_concurrent_workers": 7,
+    "max_miner_workers": 2,
+    "dispatcher_delay_min": 4.5,
+    "dispatcher_delay_max": 5.0,
+    "warmup_delay_min": 3.5,
+    "warmup_delay_max": 4.0,
+    "pagination_delay_min": 7,
+    "pagination_delay_max": 10,
+    "request_count_min": 1900,
+    "request_count_max": 2000,
+    "task_delay_min": 9,
+    "task_delay_max": 10,
+    "retry_delay_first": 2.0,
+    "retry_delay_second": 6.0,
+    "rate_limit_cooldown": 8.0,
+    "request_timeout_connect": 15.0,
+    "request_timeout_read": 45.0,
+    "on_error_retry_delay": 5,
+    "no_session_sleep": 3,
+    "queue_empty_sleep": 1
+  },
+  "mouse_movement": {
+    "smoothness_points": 15,
+    "target_randomization_enabled": true,
+    "horizontal_offset": 10,
+    "vertical_offset": 5,
+    "scroll_strength": 425
+  },
+  "hotkeys": {
+    "start_stop_key": "f6",
+    "scan_key": "f5",
+    "translator_key": "f7",
+    "secondary_translator_key": "f8"
+  },
+  "translator_settings": {
+    "api_key": "AIzaSyAC84GGzb4vfNoVQErjQIZYR6aQQkmqPDE",
+    "base_url": "https://generativelanguage.googleapis.com/v1beta/openai/",
+    "model": "gemini-2.5-flash",
+    "scan_area": [
+      595,
+      600,
+      1280,
+      790
+    ],
+    "secondary_scan_area": [
+      620,
+      777,
+      1130,
+      1030
+    ],
+    "font_size": 10,
+    "text_color": "#00FF7F",
+    "overlay_duration": 10.0,
+    "prompt": "OCR all text in the image exactly as is. Translate ONLY Chinese characters to Russian. Keep English text, nicknames, and game terms (like 'roll') exactly as they are. Output the complete sentence, do not cut it off."
+  },
+  "overlay_settings": {
+    "enabled": true,
+    "overlay_rect": [
+      1220,
+      0,
+      1488,
+      175
+    ],
+    "opacity": 0.75,
+    "bg_color": "#0a0a0a",
+    "notification_duration": 10.0,
+    "window_timeout": 15.0,
+    "font_size": 12
+  },
+  "lzt_manual_auth": {
+    "cookie_string": "",
+    "user_agent": ""
+  },
+  "other_settings": {
+    "market_api_key": "5BFy2abyaXu31MSG1Gt3UE0qja0z6nl",
+    "spam_phrases_count": 2,
+    "spam_phrase_template": "/shareparty",
+    "first_spam_phrase": {
+      "RU": "+1, любая позиция",
+      "EN": "/shareparty",
+      "CN": "/shareparty"
+    },
+    "show_recommendations": false,
+    "last_selected_profile": "profiles\\profile1CN2.json",
+    "show_dev_options": false,
+    "max_players_in_lobby": 100,
+    "chinese_spam_phrase": "/shareparty",
+    "chinese_big_cooldown_multiplier": 0.5,
+    "close_window_on_pause": false,
+    "headless_mode": true,
+    "lzt_api_token": ""
+  },
+  "pause_behavior": {
+    "skip_on_inter_cycle_pause": true,
+    "skip_after_spam_message": 3
+  },
+  "typo_settings": {
+    "enabled": true,
+    "min_chars_between_typos": 35,
+    "max_chars_between_typos": 50
+  },
+  "ocr_settings": {
+    "scan_area": [
+      707,
+      384,
+      1181,
+      680
+    ],
+    "recovery_zone": [
+      605,
+      733,
+      1305,
+      775
+    ],
+    "tesseract_languages": "chi_sim+eng",
+    "steam_id_scale": 5,
+    "lobby_scale": 2,
+    "player_count_x": 1190,
+    "player_count_tolerance": 60,
+    "line_merge_threshold": 20,
+    "steam_scanner_settings": {
+      "vertical_padding": 15,
+      "search_padding": 120,
+      "offset_x_start": 2,
+      "default_width": 160,
+      "binarization_threshold": 140,
+      "start_icon": "steam_icon.png",
+      "end_icons": [
+        "dota_plus.png",
+        "green_plus.png",
+        "end_icon.png",
+        "friends_icon.png",
+        "clan_icon.png",
+        "mertviy_gnom.png",
+        "ecran.png"
+      ]
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+    "party_hunter": {
+        "enabled": true,
+        "min_value_rub": 300,
+        "scan_interval": 60,
+        "blacklist": [],
+        "max_friends_per_session": 20
+    },
+    "guard_mode": {
+        "enabled": true,
+        "min_value_rub": 150,
+        "whitelist": [],
+        "auto_bump": true,
+        "bump_interval": 300
+    },
+    "browser": {
+        "type": "firefox",
+        "debug_port": 9222,
+        "firefox_profile": ""
+    }
+}
