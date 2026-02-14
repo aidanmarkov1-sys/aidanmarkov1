@@ -1,0 +1,41 @@
+{
+    "meta": {
+        "timestamp": 1771002366.2619517,
+        "time_human": "2026-02-13T20:06:06.261952",
+        "steam_id": "245303069",
+        "stage": "SteamAPI_403",
+        "reason": "Error"
+    },
+    "request": {
+        "method": "GET",
+        "url": "https://steamcommunity.com/inventory/76561198205568797/730/2?l=english&count=1996",
+        "headers": {
+            "accept": "application/json, text/javascript, */*; q=0.01",
+            "accept-language": "en-US,en;q=0.9",
+            "referer": "https://steamcommunity.com/profiles/76561198205568797/inventory",
+            "x-requested-with": "XMLHttpRequest"
+        },
+        "body": ""
+    },
+    "response": {
+        "url": "https://steamcommunity.com/inventory/76561198205568797/730/2?l=english&count=1996",
+        "status_code": 403,
+        "elapsed": "0:00:00.308477",
+        "headers": {
+            "server": "nginx",
+            "content-type": "application/json; charset=utf-8",
+            "x-frame-options": "SAMEORIGIN",
+            "expires": "Mon, 26 Jul 1997 05:00:00 GMT",
+            "cache-control": "no-cache",
+            "content-encoding": "gzip",
+            "vary": "Accept-Encoding",
+            "content-length": "24",
+            "date": "Fri, 13 Feb 2026 17:06:07 GMT",
+            "connection": "keep-alive"
+        },
+        "cookies": {},
+        "body": "null"
+    },
+    "exception": null,
+    "traceback": null
+}
